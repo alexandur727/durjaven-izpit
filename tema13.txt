@@ -33,13 +33,6 @@
 
 
 
-zadacha 4
-Polynomial s = new Polynomial(-30, 3, 6);
-Polynomial s1 = new Polynomial(12, 4, 7);
-var ans = s + s1;
-var ans1 = s * s1;
-var ans3 = s - s1;
-
 
 
 Console.WriteLine(ans1);
@@ -95,3 +88,10 @@ Console.WriteLine(ans);
 
 извадка - част от генералната съвкупност
 
+
+zadacha 4
+Polynomial s = new Polynomial(-30, 3, 6);
+Polynomial s1 = new Polynomial(12, 4, 7);
+var ans = s + s1;
+var ans1 = s * s1;
+var ans3 = s - s1;
