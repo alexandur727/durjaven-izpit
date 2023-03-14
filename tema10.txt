@@ -42,3 +42,18 @@ nano blue
 
 Под архитектура на операционната система, за да се разбере структурна и функционална организация на операционната система, въз основа на набор от софтуерни модули. Структурата на операционната система включва изпълними и обектните модули на стандартни формати за операционната система, софтуерни модули конкретен формат (например, OS товарач, входно-изходни драйвери), конфигурационни файлове, файлове с документация, модули на системата за помощ и т.н.
 
+
+4ti
+
+1mkdir - suzdava direktoriq
+2rmdir - trie suzdadena direktoriq
+3cp - kopirane na failove i direktorii
+4passwd - smenq parolata na potrebitelq i q promenq na podobna
+5sleep - prekusva programnata ekzekuciq za opredeleno vreme
+6dd - konvertira i kopira failove
+7Is - pokazva kompiuturni failove i direktorii
+8chmod - promenq access i permissioni 
+9kill - prashta signal do specifichen proces ili procesna grupa
+10mount - predi user da moje da otvori fail, sistemata na device-a trqbva da bude "mount-nata" s komandata "mount"
+11tail - izpolzva se da pokazva opashkata na kraq na tekst fail
+12su - "substitute user" se izpolzva ot kompiutur da executeva komandi s privilegiite na drug user account.
